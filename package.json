@@ -10,5 +10,8 @@
     "lacerba"
   ],
   "author": "Tommaso",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/Toms-J/typescript-first-project"
+  }
 }
